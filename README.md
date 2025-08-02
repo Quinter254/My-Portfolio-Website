@@ -1,67 +1,81 @@
-```markdown
-# Readme for Simple HTML Web Page
+My Portfolio Website
 
-## Project Overview
+Welcome to my personal portfolio! This website showcases who I am, what I do, and the projects I’ve worked on. It’s a space where I share my journey as a developer, my interests in technology, and how I’m growing in the tech world.
 
-This project showcases a simple HTML web page designed to introduce the reader to basic HTML syntax and structure. The page includes formatted text, ordered and unordered lists, and an image.
+---
 
-### Table of Contents
+Let's Connect
 
-1. [Project Structure](#project-structure)
-2. [HTML Structure](#html-structure)
-3. [Code Explanation](#code-explanation)
-4. [Further Development](#further-development)
+Feel free to explore my site and reach out through the contact form or via email.
 
-## 1. Project Structure
 
-- `index.html`: The main HTML file containing the entire web page content.
+About Me
 
-## 2. HTML Structure
+I’m a passionate web developer who enjoys creating beautiful, user-friendly websites that make a difference. I love turning ideas into functional designs and building responsive, accessible interfaces that work for everyone.
 
-This HTML file follows a standard structure, starting with the document type declaration and two main sections: `<head>` and `<body>`.
+I’m committed to continuous learning and growth in this ever-evolving field. My mission is to build real-world solutions that make technology more accessible and impactful.
 
-  - **Head Section** (`<!DOCTYPE html><html><head>`): Contains meta-information about the document, including the title.
-  - **Body Section** (`<body>`): Contains the content to be displayed in the browser, including headers, paragraphs, lists, and an image.
 
-## 3. Code Explanation
+Programming Languages
 
-### Head Section
+- HTML
+- CSS
+-JavaScript
+- Python
 
-- **Title**: `<title>My Web Page</title>` - Sets the title of the web page displayed on the browser tab.
 
-### Body Section
 
-- **Heading 1**: `<h1><b>Introduction to HTML </b></h1>` - A bolded heading, introducing the subject of the page.
-- **Paragraphs**: `<p>` - Used for standard text content.
-    - Explains what HTML is and expresses excitement about using HTML.
-- **Ordered List**: `<ol type="i">` - An ordered list of languages being learned, using roman numerals.
-- **Unordered List**: `<ul>` - A list of other languages being learned without any specific order.
-- **Image**: `<img src="Coding.jpg" alt="image of coding" width="300" height="200">` - An image tag with a specified source file, alternative text for accessibility, and fixed dimensions.
+Education Background
 
-## 4. Further Development
+I hold a Bachelor of Commerce in Accounting from the University of Nairobi, where I developed strong skills in:
 
-- **Enhance Content**: Add more information about HTML, CSS, JavaScript, and other languages mentioned.
-- **Style Improvements**: Implement CSS to style the page and improve the layout and appearance.
-- **Interactivity**: Add JavaScript to make the page interactive.
-- **Accessibility**: Improve accessibility features by adding role attributes and ensuring color contrast.
+- Financial analysis
+- Business management
+- Problem-solving
 
-## Contributing
+Currently, I’m advancing my technical skills through the Power Learn Project (PLP), where I’m learning practical web development, programming, and digital technologies.
 
-Contributions to this project are welcome. If you have any suggestions or improvements, feel free to submit a pull request.
+ [Download My CV](Cv.pdf)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Interests
 
-## Contact
+Web Development – Exploring modern frameworks and best practices  
+ - Tech Innovations – Staying up to date with emerging trends  
+ - UI/UX Design – Building user-friendly, accessible digital experiences  
+ -Responsive Design – Ensuring smooth functionality across all devices  
+ -Problem Solving – Developing real-world solutions through code
 
-For any queries or feedback, contact <your-name>@example.com.
 
-```
 
-## Note:
-- Replace `<your-name>@example.com` with your actual contact information if needed.
-- Always ensure that the image source file `Coding.jpg` is available in the directory or a linked location for the image to display correctly.
-- Note that any further development section suggestions are based on the assumption that this HTML file is meant to be a starting point for learning web development.
+Projects
 
-This structured README provides an overview of the project, a breakdown of the HTML structure, an explanation of the code, suggestions for further development, and information on how to contribute and contact the creator.
+1. Calculator App
+2. [GitHub Repository](https://github.com/Quinter254/Calculator2.git)  
+   A simple calculator that allows users to input two numbers and an arithmetic operator to perform a calculation.
+
+3. First HTML Website  
+   [GitHub Repository](https://github.com/PLP-WebTechnologies/july-2025-introduction-to-html-5-Quinter254.git)  
+My first static website built using HTML, demonstrating clean layout and semantic structure.
+
+
+Contact Me
+
+Want to collaborate or just say hello?
+
+Use the contact form on the site or reach me directly via:
+
+Email: [hopequinter6@gmail.com](mailto:hopequinter6@gmail.com)
+
+
+Built With
+
+- HTML5
+- CSS3
+- Responsive Web Design
+- Git & GitHub
+
+
+License
+
+&copy; 2025 Quinter Hope. All rights reserved.
